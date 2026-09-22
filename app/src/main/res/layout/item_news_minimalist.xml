@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="24dp"
+    android:paddingTop="8dp">
+
+    <TextView
+        android:id="@+id/tvNewsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/text_main"
+        android:textSize="17sp"
+        android:text="Disaster Title" />
+
+    <TextView
+        android:id="@+id/tvNewsLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="See more on NASA Portal"
+        android:textColor="@color/accent_safe"
+        android:textSize="13sp"
+        android:fontFamily="sans-serif" />
+
+</LinearLayout>

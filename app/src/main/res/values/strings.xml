@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Alerta Desastres</string>
+    <string name="weather_title">Clima de hoy</string>
+    <string name="weather_temp">24°C</string>
+    <string name="weather_desc">Soleado y despejado</string>
+    <string name="emergency_contacts">Contactos de Emergencia</string>
+    <string name="police">Policía</string>
+    <string name="firefighters">Bomberos</string>
+    <string name="hospital">Hospital</string>
+    <string name="civil_defense">Defensa Civil</string>
+    <string name="tools_title">Herramientas</string>
+    <string name="flashlight">Linterna</string>
+    <string name="guides_title">Guía de Actuación</string>
+    <string name="record_title">Cámara</string>
+    <string name="earthquake_title">Terremotos</string>
+    <string name="earthquake_desc">Mantén la calma, aléjate de ventanas y busca refugio bajo una mesa resistente.</string>
+    <string name="flood_title">Inundaciones</string>
+    <string name="flood_desc">Dirígete a zonas altas, evita sótanos y no cruces corrientes de agua.</string>
+    <string name="fire_title">Incendios Forestales</string>
+    <string name="family">Familiar</string>
+    <string name="fire_desc">Evacúa hacia zonas sin vegetación, cierra puertas y ventanas, y sigue las rutas oficiales.</string>
+    <string name="chat_hint">Escribe un mensaje...</string>
+    <string name="assistant_title">Asistente Virtual</string>
+    <string name="assistant_online">En línea para ayudarte</string>
+    <string name="status_safe">Todo está en calma</string>
+    <string name="status_safe_desc">No se han detectado amenazas en tu zona.</string>
+    <string name="recent_alerts">Alertas Recientes</string>
+    <string name="report_emergency">Reportar Emergencia</string>
+    <string name="weather_temp_format">%1$d°C</string>
+    <string name="weather_extra_format">Sensación: %1$d°C | Viento: %2$d km/h</string>
+</resources>

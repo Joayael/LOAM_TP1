@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886316740679",
+    "project_id": "joaquin-c6e11",
+    "storage_bucket": "joaquin-c6e11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886316740679:android:4a01cc6bacecda4b32c162",
+        "android_client_info": {
+          "package_name": "com.JoaquinApp.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm0bfU2twvGnAIlw-ec6cLrriwNanNQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886316740679:android:1e628e47da779ea332c162",
+        "android_client_info": {
+          "package_name": "com.joacoAguirre.app_alertadesastres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm0bfU2twvGnAIlw-ec6cLrriwNanNQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
